@@ -9,6 +9,3 @@ I am a self-taught programmer with interest in JVM languages.
 
 ### My activity
 [![das's Github stats](https://github-readme-stats-beta-six-94.vercel.app/api?username=daspositioned&theme=radical)](https://github-readme-stats-beta-six-94.vercel.app/api?username=daspositioned&theme=radical)
-<br>
-### My languages (on Github)
-[![Top Langs](https://github-readme-stats-beta-six-94.vercel.app/api/top-langs/?username=daspositioned)](https://github-readme-stats.vercel.app/api/top-langs/?username=daspositioned)
